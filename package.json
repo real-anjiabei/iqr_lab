@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "IQRLab Website",
   "main": "index.js",
-  "repository": "real_anjiabei/iqr_lab.io",
+  "repository": "real-anjiabei.github.io",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
